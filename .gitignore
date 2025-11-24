@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement virtuel
+env/
+venv/
+Pipfile.lock
+
+# Base de données
+*.sqlite3
+
+# IDE / OS
+.DS_Store
