@@ -7,7 +7,7 @@ __pycache__/
 # Environnement virtuel
 env/
 venv/
-Pipfile.lock
+# Pipfile.lock
 
 # Base de données
 *.sqlite3
